@@ -9,7 +9,7 @@
     "@jest/reporters": "^26.6.2",
     "@types/jest": "^26.0.0",
     "@types/node": "^14.14.28",
-    "@typescript-eslint/eslint-plugin": "^4.15.1",
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
     "@typescript-eslint/parser": "^4.15.1",
     "antlr4ts-cli": "^0.5.0-alpha.4",
     "cashproof": "https://github.com/eyeofpython/cashproof",
